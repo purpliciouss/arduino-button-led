@@ -15,7 +15,7 @@ The LED stays on as long as the button is pressed, and turns off when released. 
 - 1x Resistor (for the LED, ~330Ω)
 - 1x Resistor (for the button, 10kΩ)
 - 5x Jumper wires
-- 
+  
 ## Wiring
 
 | Component | Arduino Pin |
