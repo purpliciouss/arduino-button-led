@@ -4,7 +4,7 @@ A simple Arduino UNO circuit and sketch where an LED turns on while a button is 
 
 ## How It Works
 
-The LED stays on as long as the button is pressed, and turns off when released. The button uses Arduino's internal **pull-up** resistor, so no external resistor is needed for the button itself.
+The LED stays on as long as the button is pressed, and turns off when released. 
 
 ## Components Used
 
